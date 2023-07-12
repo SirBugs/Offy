@@ -22,7 +22,7 @@ So I decided to create this tool, Which would:
     - ![Alt text](https://raw.githubusercontent.com/SirBugs/Offy/main/imgs/Screen%20Shot%202023-07-12%20at%204.48.24%20AM.png)
     - run: `brew install awscli` and confirm/check if it's installed by running: `aws --version`
     - Now configure awscli by running: `aws configure`, Then submit your generated Key, Secret, Region, default
-    - ![Alt text]()
+    - ![Alt text](https://raw.githubusercontent.com/SirBugs/Offy/main/imgs/Screen%20Shot%202023-07-12%20at%205.58.19%20AM.png)
 2. Configuring Telegram and Discord
     - To Configure your Telegram bot, Open @BotFather and create your own bot and set the API token of it, It's like: `6342603457:AAH6Im9kxIdDeXS3J01hKkC1lvjl9RmQoPp`
     - To Get your Telegram ChatID visit: https://t.me/chat_id_echo_bot and send a `/start` message
