@@ -22,6 +22,7 @@ So I decided to create this tool, Which would:
     - ![Alt text](https://raw.githubusercontent.com/SirBugs/Offy/main/imgs/Screen%20Shot%202023-07-12%20at%204.48.24%20AM.png)
     - run: `brew install awscli` and confirm/check if it's installed by running: `aws --version`
     - Now configure awscli by running: `aws configure`, Then submit your generated Key, Secret, Region, default
+    - ![Alt text]()
 2. Configuring Telegram and Discord
     - To Configure your Telegram bot, Open @BotFather and create your own bot and set the API token of it, It's like: `6342603457:AAH6Im9kxIdDeXS3J01hKkC1lvjl9RmQoPp`
     - To Get your Telegram ChatID visit: https://t.me/chat_id_echo_bot and send a `/start` message
@@ -33,6 +34,8 @@ So I decided to create this tool, Which would:
     - Save in your ~/.profile :: `alias offy="go run /home/sirbugs/Desktop/Tools/offy/main.go"`
     - Save in your ~/.profile :: `alias noffy="nohup go run /home/sirbugs/Desktop/Tools/offy/main.go > output.log 2>&1 &"` as alias called `noffy` in your  ~/.profile, and each time you open your machine just run `noffy` and keep going
     - Don't forget to run: `source ~/.profile
+    - ![Alt text](https://raw.githubusercontent.com/SirBugs/Offy/main/imgs/Screen%20Shot%202023-07-12%20at%205.51.38%20AM.png)
+    - ![Alt text](https://raw.githubusercontent.com/SirBugs/Offy/main/imgs/Screen%20Shot%202023-07-12%20at%205.51.27%20AM.png)
 
 # Features
 - It can keep remining you every one hour about your instance if it's running or not, just run: `noffy`
