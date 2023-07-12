@@ -38,7 +38,7 @@ So I decided to create this tool, Which would:
     - ![Alt text](https://raw.githubusercontent.com/SirBugs/Offy/main/imgs/Screen%20Shot%202023-07-12%20at%205.51.27%20AM.png)
 
 # Features
-- It can keep remining you every one hour about your instance if it's running or not, just run: `noffy`
+- It can keep reminding you every one hour about your instance if it's running or not, just run: `noffy`
 - If you running something taking time for example `nuclei` and you want the machine to stop after this command, just run: `nuclei ...........; offy` or `nuclei ..........; offy stop`
 - You can use it directly to stop the instance after finishing using it via command: `offy stop`
 
