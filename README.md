@@ -14,7 +14,7 @@ So I decided to create this tool, Which would:
    - ```
       ▶ brew install go
       ▶ git clone https://github.com/SirBugs/endext.git
-   - ```
+     ```
 1. Code installation and configuration
     - Go to: https://us-east-1.console.aws.amazon.com/iamv2/home and create a user with a SecurityGroup with permission called `AmazonEC2FullAccess`, Then create your Keys !!
     - ![Alt text](https://raw.githubusercontent.com/SirBugs/Offy/main/imgs/Screen%20Shot%202023-07-12%20at%205.13.19%20AM.png)
