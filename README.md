@@ -39,7 +39,7 @@ So I decided to create this tool, Which would:
 
 # Features
 - It can keep reminding you every one hour about your instance if it's running or not, just run: `noffy`
-- If you running something taking time for example `nuclei` and you want the machine to stop after this command, just run: `nuclei ...........; offy` or `nuclei ..........; offy stop`
+- If you running something taking time for example `nuclei` and you want the machine to stop after this command, just run: `nuclei ..........; offy stop`
 - You can use it directly to stop the instance after finishing using it via command: `offy stop`
 
 # Updates
