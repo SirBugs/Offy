@@ -11,7 +11,6 @@ So I decided to create this tool, Which would:
 # Run
 1. Go Installation
    - Install go, run:
-   - 
    - ```
       ▶ brew install go
       ▶ git clone https://github.com/SirBugs/endext.git
