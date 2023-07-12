@@ -13,8 +13,8 @@ So I decided to create this tool, Which would:
    - Install go, run:
    - 
    - ```
-   - ▶ brew install go
-   - ▶ git clone https://github.com/SirBugs/endext.git
+      ▶ brew install go
+      ▶ git clone https://github.com/SirBugs/endext.git
    - ```
 1. Code installation and configuration
     - Go to: https://us-east-1.console.aws.amazon.com/iamv2/home and create a user with a SecurityGroup with permission called `AmazonEC2FullAccess`, Then create your Keys !!
