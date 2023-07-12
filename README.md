@@ -26,6 +26,7 @@ So I decided to create this tool, Which would:
 3. Saving aliases
     - Save in your ~/.profile :: `alias offy="go run /home/sirbugs/Desktop/Tools/offy/main.go"`
     - Save in your ~/.profile :: `alias noffy="nohup go run /home/sirbugs/Desktop/Tools/offy/main.go > output.log 2>&1 &"` as alias called `noffy` in your  ~/.profile, and each time you open your machine just run `noffy` and keep going
+    - Don't forget to run: `source ~/.profile
 
 # Features
 - It can keep remining you every one hour about your instance if it's running or not, just run: `noffy`
